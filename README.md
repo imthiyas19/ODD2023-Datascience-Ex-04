@@ -103,82 +103,178 @@ df.corr()
 
 sns.heatmap(df.corr(),annot=True)
 ```
-OUTPUT:
+# OUTPUT:
 SUPERSTORE:
 DATA FRAME OF SUPERSTORE:
 
-273436811-04da1d1e-4305-4abf-825d-effe43521a9f
+![276570804-1fa8fce4-890d-4bff-a44b-b8c196b4a3f5](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/aa195043-9e21-446b-bf71-6881f6668fe7)
 
 Data information
 
-273436436-c443883f-8cf6-4f5f-b4ee-eef401730a59
+![276570849-628add2e-c7f1-4d86-b4a3-b1d37c63dbcd](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/29511d50-8d7d-4bcc-b829-449fc8140e22)
+
+
+
+
+
 
 Data describing:
 
-273436443-51b07f4d-77eb-4482-a5c8-fe68ec112bc2
 
-Sum of null values 273436449-f0958e9d-36fe-4745-93cf-3885d67e855b
+![276570904-e2906abb-ef3d-4392-838d-3a4f3a46cc6e](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/d3cea0a6-43b9-4b8a-8a57-f09524327ca5)
 
-After removing null values: 273436456-c29779d4-e3d8-4391-a59a-b65b8cc25e9f
+
+
+Sum of null values
+![276570936-274a4c56-10ce-4fbe-b13c-998fbe78a3bd](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/e8a78d81-d2f2-4c20-aeac-a4274dd7e661)
+
+
+
+
+
+After removing null values:
+
+
+
+![276571047-05a5956f-bd7c-45b3-9b48-6d63772c14b2](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/8d74888f-f5bb-4cdb-912d-f235e9f410eb)
 
 Scatter plot:
 
-273436476-cd55d233-5f25-4451-9eac-1270557c5c14
+![276571132-fb2790de-ea7f-446d-9d23-a029b9bc669d](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/922baf73-a739-49c2-ad42-383205d9d789)
 
-Bar plot: 273436479-a1ba9121-6cc4-4a13-93cc-c884491218dd
 
-273436485-1fb3fb81-f2a7-4c34-9cc5-84dc2d8a9501
 
-Box plot: 273436511-92fa18b4-46e9-4e75-abbf-208ea3dea94c
+
+
+
+Bar plot: 
+
+![276571205-edc8ab2e-8041-419e-9cb1-9fd3ea431d16](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/0754f3a5-6b90-49e2-90e4-0295a4deb77d)
+
+
+
+
+![276571296-7900fa42-ce29-482e-909b-04637967ce6f](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/0002bb0a-9445-4e23-b658-de1e553a0839)
+
+
+
+
+
+Box plot:
+
+
+![276571367-a97b666a-05bc-49fc-805e-aa6111cd12a3](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/dcaf92e6-e178-47d0-9e7c-dfecbe135948)
+
+
 
 Dist plot:
 
-273436520-6582fd54-083b-482a-9670-40ce01d38e7f
+
+
+![276571442-afff1554-35d8-4d5d-a5c6-2517e41e03e0](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/eb821c5e-82cc-40f9-b3c9-ef338719a288)
+
+
+
+
+
+
+
+
 
 Correlation coefficient interpretation:
 
-273436530-80d97153-1912-40ca-9a7c-875c63ae7486 Heat map:
 
-273436537-4204da31-bbfc-4051-842a-bd3b8e0a3cbb
+
+![276571534-64551be3-ca93-4afe-b2b2-94a7485230c5](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/5b051494-2d28-4800-bf33-6359ee96e7cf)
+
+# HEAT MAP:
+
+![276571573-a1479ec5-4437-4701-a1f0-37337d78f844](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/21b189f5-dc9b-4adf-8a76-ced764dbcdc9)
+
+
+
 
 DIABETES:
 DATA FRAME FOR DIABETES:
 
-273436553-d4d5c50b-015f-4d2a-bb29-39370301a9ce
+![276571858-e1f804a2-c461-4e83-82f9-3b44fe285003](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/83b0eef5-6926-4d1a-bdc8-32ab55011784)
+
+
+
 
 Data information1:
 
-273436559-e267215f-0108-4655-8a4e-3e3e6117f257
+
+
+![276571955-eaaf431f-1e9b-4c88-ac85-2371726ce784](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/8038088f-2cd7-4aff-a646-56c47fb3a248)
+
+
+
 
 Data describing:
 
-273436564-13ff73a9-97ea-485f-a799-45edb43d6e6a
+![276572034-8b794e77-d97f-4fcf-b71b-388ca16df7a4](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/7f1e0f52-fab9-43e8-9bb1-0355c797a601)
+
+
+
+
 
 Sum of null values:
 
-273436571-c1e2954b-2fe8-4e63-935f-fcf168d03e20
 
-Scatter plot: 273436579-7e7e1712-2305-4cb4-afcb-ea4f42e0c9a7
+![276572190-04db704b-8eaf-4c53-9f1e-a2fe92d3acaa](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/cb1020a9-01da-471e-9173-c439f705765c)
 
-273436583-bb3781f1-5fa4-4194-b16c-03ba3a662fb4
+
+
+
+![276572201-cbabb3c2-1b2a-4190-a0d6-b856b7a1f50a](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/e17e0946-b93f-4f67-ba43-625989c5e840)
+
+
+
+
+
 
 Bar plot:
 
-273436590-c93a6716-2d38-4268-aeae-b3fee90409fd
 
-273436599-10b80b0f-af9a-4d60-8284-22d682c724e3
+![276572284-e167acdc-b6b0-4f80-8792-2c96b297cab6](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/7ecf1bfd-4b04-4eb7-8f1f-bbb42784e104)
+
+![276572297-8bedfb5b-d600-4045-bf25-117c25128785](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/08b087e6-a878-405f-8476-4d7cdf38fd86)
+
+
+
 
 Box plot:
 
-273436607-aaf4bb9d-1541-4ad0-b5ef-a389d7bd0adb Dist plot:
 
-273436614-a8b71f2b-e474-4f80-a354-8e6e1aa15062
 
-correlation coefficient interpretation: 273436624-5b89025c-0179-4741-934c-6ef20fe8e3df
+
+![276572383-dae4ddbc-3786-45b9-a9fe-fff363f05765](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/175dcb14-e5fa-409d-8e21-d8a1f344b66d)
+
+
+
+Dist plot:
+
+![276572444-a66e4511-fbe9-45a0-8c1d-237aba723673](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/60277e2f-d0a0-40df-98e4-9b493593ea6a)
+
+
+
+
+
+
+correlation coefficient interpretation:
+
+
+![276572537-31eff66e-3575-4d6c-99d7-3ee6ed5d4c98](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/0130c04d-8b5e-4803-92db-7e15e4ca2edf)
+
 
 Heat map:
 
-273436634-71fa8088-79a1-4896-853b-cccb9a47d230
+
+
+
+
+![276572591-52141eca-21e2-47ea-95a7-ba64d1ac8353](https://github.com/imthiyas19/ODD2023-Datascience-Ex-04/assets/120353416/529a4ece-060b-449c-b8ef-f24e201cdaae)
 
 RESULT::
 Thus we have read the given data and performed the multivariate analysis with different types of plots.
